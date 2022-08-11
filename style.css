@@ -23,7 +23,7 @@ main{
     transform: translate(-50%, -50%);
 }
 .container{
-    padding: 1em;
+    padding: 0.75em;
     text-align: center;
 }
 img{
@@ -31,11 +31,11 @@ img{
     border-radius: 0.5rem;
 }
 .content{
-    margin: 1em 0px;
+    margin: 0.5em 0px;
 }
 .content-title{
     font-size: 1.75rem;
-    padding: 0.7em 0;
+    padding: 0.2em 0;
     color: hsl(218, 44%, 22%);
 }
 .content-text{
